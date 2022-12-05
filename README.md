@@ -3,7 +3,7 @@
 - [Day 1](lib/day1) - :star: :star:
 - [Day 2](lib/day2) - :star: :star:
 - [Day 3](lib/day3) - :star: :star:
-- [Day 4](lib/day4)
+- [Day 4](lib/day4) - :star: :star:
 - [Day 5](lib/day5)
 - [Day 6](lib/day6)
 - [Day 7](lib/day7)
