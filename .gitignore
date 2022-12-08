@@ -1,5 +1,6 @@
 .vscode
 .elixir_ls
+actions-runner
 # The directory Mix will write compiled artifacts to.
 /_build/
 
