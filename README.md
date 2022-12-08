@@ -1,4 +1,4 @@
-# Advent of Code 2022 [![Elixir CI](https://github.com/shmink/AoC2022/actions/workflows/elixir.yml/badge.svg)](https://github.com/shmink/AoC2022/actions/workflows/elixir.yml)
+# Advent of Code 2022
 
 - [Day 1](lib/day1) - :star: :star:
 - [Day 2](lib/day2) - :star: :star:
