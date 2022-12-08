@@ -1,11 +1,11 @@
-# Advent of Code 2022
+# Advent of Code 2022 [![Elixir CI](https://github.com/shmink/AoC2022/actions/workflows/elixir.yml/badge.svg)](https://github.com/shmink/AoC2022/actions/workflows/elixir.yml)
 
 - [Day 1](lib/day1) - :star: :star:
 - [Day 2](lib/day2) - :star: :star:
 - [Day 3](lib/day3) - :star: :star:
 - [Day 4](lib/day4) - :star: :star:
 - [Day 5](lib/day5) - :star: :star:
-- [Day 6](lib/day6)
+- [Day 6](lib/day6) - :star: :star:
 - [Day 7](lib/day7)
 - [Day 8](lib/day8)
 - [Day 9](lib/day9)
